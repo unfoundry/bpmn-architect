@@ -1,5 +1,5 @@
 app:
-  logo: "https://img.icons8.com/?size=96&id=Z5oVE4Bv4Ws5&format=png"
+  logo: "/static/bpmn-architect.svg"
   subtitle: "Collaborative Process Mapping"
   contact_email: "testuser@unfoundry.org"
   templates_path: "bpmn_templates"
